@@ -82,7 +82,7 @@ sniffer:
 proxy-providers:
   subscribe:
     type: http
-    url: "https://your-service-provider"
+    url: https://xs-a01.xxfsub.cc/subscribe/60eb52e9-fb7c-4da2-a896-9d65c6171349/%e5%b0%8f%e6%97%8b%e9%a3%8e
     path: ./Server/subscribe.yaml
     interval: 86400
     health-check:
